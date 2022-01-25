@@ -6,41 +6,31 @@ weight: 6
 layout: service
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+![Accounting Services](/images/alex-kondratiev-H9t723yPjYI-unsplash.jpg)
 
-- Nata perque
-- Et ferrugine laedam
-- Cedere tandem Atlante maiestas Italicis ut forma
+<p style="font-size:22px">
+The Synthesis is the whole of actions that transforms ingredients or raw materials to the chemical product.
+This pathway is not unique and in many causes several alternatives are possible. Finding the different possibilities and choosing the most convenient is the goal of the synthesis research.
+Synthesis is the base of the business because it strongly influences all the rest. Skills needed to develop this part are the core of the chemical competences and can be listed in a quite long set:</p>
+<p style="font-size:24px">
+<ul><b>
+  <li>Organic Chemistry</li>
+  <li>Inorganic Chemistry</li>
+  <li>Biochemistry</li>
+  <li>Electrochemistry</li>
+  <li>Polymer science</li>
+  <li>Thermodynamic</li>
+  <li>Kinetic</li>
+  <li>Catalysis</li>
+</b></ul></p>
 
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
+<p style="font-size:22px">Except the last three, the first depend of the kind of product you are going to produce and may or may not be required.
+It seems obvious that each chemical business has a synthesis base. This can be either very complex (several steps, intermediate products, different unit operations) or very simple (such as a water dissolution of a salt). Less obvious is that base is unchangeable.
+Especially in the last years, the market and mentality changes promoted a deep revision. Of course, changes are not in chemistry, but in the choice of what we consider an optimal or convenient pathway.
+For instance, the requirement of “green raw materials” push more ecofriendly synthetic routes that in the past were considered inefficient.
+The globalization, makes available raw materials at reduced cost that promotes shorter pathway starting from different substance. At the contrary globalization, stress the price of some ingredients that are not conveniently available or need to be produced on site instead of simply purchased.
+After several year of slow motion, the Synthesis research needs to be update in a way that continuously adapts itself to the rapid changes. So, appropriate knowledge is required and recovered by the previous competences.</p>
 
-1. Imagine Assaracus victori petet femina mea haustos
-2. Sicaniam quibus agro magni
-3. In utque Troica pedum caelestia hunc tempto
-4. Gregibus certare tamen turbatque qui
 
-## Patulis Veneris est expulit adversaque magnum mediaque
+<p style="font-size:22px"> <span style="color:red"> <b>Since Giada Consulting master with several year of experience on this matter, we are ready to help you to update your synthesis from scratch!</b></span></p>
 
-Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
-subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
-**mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
-quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
-
-_Diduxit manibus_ anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
-
-Cursus suis _amplectitur inbutum retractat_ te tempora [deducere
-mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
-parsque; et equos quaeque, forte nostro ceciderat, ubi faciat traherent
-tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
-inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
-inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
-siccatque frondes.
-
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! _Quam perque
-semper_?

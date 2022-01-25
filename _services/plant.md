@@ -5,45 +5,28 @@ featured: true
 weight: 3
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+![Accounting Services](/images/pexels-loïc-manegarium-3855962.jpg)
 
-## Geniti facinus praeruptam atris ab manus in
+<p style="font-size:22px">
+The Plant is where your product is made and your people are working. All tools from the big ones (reactors, columns, pipelines, tanks, driers) to the small ones (pumps, filters, compressors) make it the real value of the company.
+Two main questions are involved: is the plant really realizing our process? Is the plant the safest for the people?</p>
+<p style="font-size:22px">The first answer recall the ability of scaling-up the process, i.e. the reaction must goes independently of the amount produced. The second answer requires the respect of good manufacturing practices that minimize the risk. 
+Again, a lot of different competences are required:</p>
+<p style="font-size:24px">
+<ul><b>
+  <li>Dimesional Analysis</li>
+  <li>Matematical Modelling</li>
+  <li>Short cuts and rule of tumb tricks</li>
+  <li>Software simulation ability</li>
+  <li>Regulation and Certification</li>
+  <li>Thermochemistry</li>
+  <li>Applied Mechanics and Materials</li>
+</b></ul></p>
+<p style="font-size:22px">
+More and more new devices and machineries are coming from different sources. Someones are new designed other are recovered from dismissing sites. Both they may represent a conveneient opportunity or severe danger for a new plant.
+ The feelling that a new tool is good or bad must be predicted with reliability. Plants are not laboratories and each mistake involves a relevant lost of money. Experience and modeling are the two ways to base your decision. 
+</p>
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
-
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
-
-## Vidit si probetne vertitur
-
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
-
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
-
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+<p style="font-size:22px"> <span style="color:red"> <b>Giada Consulting has experience and mathematical modeling ability, let us made reliable prediction for your production!</b></span></p>

@@ -28,6 +28,8 @@ defaults:
     values:
       layout: "team"
 
+github: [metadata]
+
 sass:
   indentWidth: 4
   style: compressed # possible values: nested expanded compact compressed
