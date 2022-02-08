@@ -32,5 +32,5 @@ The globalization, makes available raw materials at reduced cost that promotes s
 After several year of slow motion, the Synthesis research needs to be update in a way that continuously adapts itself to the rapid changes. So, appropriate knowledge is required and recovered by the previous competences.</p>
 
 
-<p style="font-size:22px"> <span style="color:red"> <b>Since Giada Consulting master with several year of experience on this matter, we are ready to help you to update your synthesis from scratch!</b></span></p>
+<p style="font-size:22px"> <span style="color:red"> <b>Since Giada Consulting has several years of experience on this matter, we are ready to update your synthesis from scratch!</b></span></p>
 

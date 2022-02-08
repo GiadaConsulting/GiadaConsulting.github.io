@@ -17,7 +17,7 @@ and materials are wasted. Of course, this is not immediately evident but it will
 <p style="font-size:24px">
 <ul><b>
   <li>Multivariate Statistical Analysis (MVA)</li>
-  <li>Data Mining and aAnlysis (DA)</li>
+  <li>Data Mining and Analysis (DA)</li>
   <li>Electronic and Sensors</li>
   <li>Networking and Data Handling</li>
   <li>Computer Science and Programming</li>
