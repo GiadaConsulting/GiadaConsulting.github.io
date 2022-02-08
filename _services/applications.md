@@ -25,7 +25,7 @@ effect provided by the chemical compound. So, you to satisfy the application but
 </b></ul></p>
 <p style="font-size:22px">
 Quite often, people do not realize that several sectors exactly use the same chemicals. Depending of the market the prices of the chemical is different and in many cases is not justified. Improving the market possibilities of your productins in areas you never though about, it is cheap and efficient.
-Viceversa sometime the cost of upgrading your production to best priced market is required. The decision is consequently a trade of between investement and revenus, but you need a qualified budget of the new routes. So, experience is still the best bet.
+Viceversa sometime the cost of upgrading your production to best priced market is required. The decision is consequently a trade-off between investement and revenus, but you need a qualified budget of the new routes. So, experience is still the best bet.
 </p>
 
 

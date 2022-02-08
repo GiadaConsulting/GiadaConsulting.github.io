@@ -4,49 +4,20 @@ layout: page
 description: About
 bodyClass: page-about
 ---
+Founders of Giada Consulting decided to start activities moved by two main reasons.
 
-Giada Consulting aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+* The first reason comes from our observation that more and more people that have a large knowledge in chemistry tend to keep it theoretical and abstract. 
+Vice versa people involve in practical activities are less and less interested in understand what they are doing. This is reasonable since a lot of external limitations (bureaucracy, 
+rules, guarantees, etc.) discourage the practical activities and the waste availability of information, theories and opinion overload a simple and defined understanding. 
+So, we believe to merge the two options in spite to all the difficulties keeping our activities practical and knowledgeable. Of course, we do not know if we are able to follow this 
+guideline but at least we try and we do our best. Just to remind it adopted the slogan **"Knowledge in Action"**.
 
-## Ne verba patulosque numen vix libet
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
-
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
-
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+* The second reason comes from another observation related to the chemical market. Nowadays, the market is absolutely driven by the business. Noting to say about the dominance of the 
+business since the duty of each company is making profit. However, we have some concern about the word "absolutely". In fact, when things are going well, they confirm a good business 
+strategy, but when something goes wrong, then a **"Black Shawn"** arrived. But quite often the Shawn is just a phenomenon and is not even black because is clearly written in a paper. 
+We mean that a business debacle in the chemical market is simply caused by  a well-known chemical effect. We understand that for a non-chemical people something that is not understood 
+could be interpret like a mysterious animal... If you would like to test our notes have a look to the 
+[Theranos Saga](https://www.investopedia.com/articles/investing/020116/theranos-fallen-unicorn.asp#:~:text=2003%3A%20Nineteen%2Dyear%2Dold,gaining%20a%20%2430%20million%20valuation.) 
+and see how business gurus have sometime a below average college knowledge in analytical chemistry.
+Based on this observation, the second guideline of our activity is to share and explain the potential impact that chemical information may have on the business and enlarge by them the possible strategic alternatives.
