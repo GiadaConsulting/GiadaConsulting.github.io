@@ -2,7 +2,11 @@
 title: Contact
 layout: contact
 description: Contact
+intro_image: "images/illustrations/hans-reniers-lQGJCMY5qcM-unsplash.jpg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
 ---
+
 <p style="font-size:22px">
 Giada Consulting s.r.l.</p>
 <p style="font-size:22px">
